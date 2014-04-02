@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OrbitCamera.cs">
+    <Files>
+      <File FileName="Assets\drone\Drone.cs" Line="48" Column="13" />
+      <File FileName="Assets\drone\DroneController.cs" Line="27" Column="35" />
+      <File FileName="Assets\OrbitCamera.cs" Line="63" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
